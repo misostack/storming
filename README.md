@@ -35,6 +35,38 @@ The events that's happened in your business
 ### Aggregates
 ![image.png](/.eraser/VHoEELSGFVNGy5pgxreO___xqWYKd9ntEePv6FaUQV5R3VPmYW2___LBazAjNkUaAOKnNmoCv_0.png "image.png")
 
+## Practice
+Let's build a dead simple todolist application.
+
+The idea is user can see the overview of the tasks they have to do everyday. We'll have 4 tabs in the application:
+
+The 1st one:
+
+- Task creation box with default category
+- List of pending tasks ( in list with remove/mark done button )
+- List of completed tasks ( in list )
+- List of categories ( display as a chip ) -> if user click on it list of tasks will be filter by category ( user can select multiple categories )
+The 2nd one:
+
+- Category creation box
+- List of category
+The 3rd one:
+
+- Settings:
+    - Default Category
+    - Pending Tasks limit ( number of pending tasks )
+The 4th one:
+
+- Statistic Filter
+    - Time Range: all the time(default), specific date, date range
+- Statistic in table format
+    - Total Task created
+    - Total Completed tasks
+    - Total Pending tasks
+- Statistic in chart format
+    - Total Task created
+    - Total Completed tasks
+    - Total Pending tasks
 
 
 
