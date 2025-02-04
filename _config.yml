@@ -1,3 +1,6 @@
 theme: jekyll-theme-minimal
 include:
-  - ".eraser"  # Allow .eraser folder to be processed by Jekyll
+  - ".eraser"  # Ensure Jekyll does not ignore this folder
+keep_files:
+  - ".eraser"  # Ensure the folder is NOT deleted on build
+
