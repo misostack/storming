@@ -55,8 +55,13 @@ The 3rd one:
 - Settings:
     - Default Category
     - Pending Tasks limit ( number of pending tasks )
+- Reset Data:
+    - Clear all tasks button
 The 4th one:
 
+- Statistic View Type Switch
+    - Table
+    - Chart
 - Statistic Filter
     - Time Range: all the time(default), specific date, date range
 - Statistic in table format
@@ -67,6 +72,13 @@ The 4th one:
     - Total Task created
     - Total Completed tasks
     - Total Pending tasks
+
+
+## Events
+
+
+![image.png](/.eraser/VHoEELSGFVNGy5pgxreO___xqWYKd9ntEePv6FaUQV5R3VPmYW2___97raHNmWsjdy0JRG2NP3S.png "image.png")
+
 
 
 
