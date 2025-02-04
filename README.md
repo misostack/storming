@@ -77,7 +77,36 @@ The 4th one:
 ## Events
 
 
-![image.png](/.eraser/VHoEELSGFVNGy5pgxreO___xqWYKd9ntEePv6FaUQV5R3VPmYW2___97raHNmWsjdy0JRG2NP3S.png "image.png")
+
+
+![image.png](/.eraser/VHoEELSGFVNGy5pgxreO___xqWYKd9ntEePv6FaUQV5R3VPmYW2___HCoZlhx2kgLJK86QxQZXn.png "image.png")
+
+
+
+## Events & Actors & Commands & Policies
+1.User **Open 1st tab**
+
+![image.png](/.eraser/VHoEELSGFVNGy5pgxreO___xqWYKd9ntEePv6FaUQV5R3VPmYW2___l_LCjkcyGwz-RAO9BxUJR.png "image.png")
+
+2.User **Create new task**
+
+
+
+![image.png](/.eraser/VHoEELSGFVNGy5pgxreO___xqWYKd9ntEePv6FaUQV5R3VPmYW2___GhJylb7WAkGTZ9itxYlNe.png "image.png")
+
+3.User **Remove a  task**
+
+![image.png](/.eraser/VHoEELSGFVNGy5pgxreO___xqWYKd9ntEePv6FaUQV5R3VPmYW2____7CEAbaf5mL6kMOBNZr90.png "image.png")
+
+4.User **Mark a task as done**
+
+
+
+![image.png](/.eraser/VHoEELSGFVNGy5pgxreO___xqWYKd9ntEePv6FaUQV5R3VPmYW2___S-15drSeS9ZnqVvEz1rCO.png "image.png")
+
+5.User **Apply Category Filter**
+
+![image.png](/.eraser/VHoEELSGFVNGy5pgxreO___xqWYKd9ntEePv6FaUQV5R3VPmYW2___koXQGgGn12iNUmIVeSqgt.png "image.png")
 
 
 
