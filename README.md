@@ -79,34 +79,56 @@ The 4th one:
 
 
 
-![image.png](/.eraser/VHoEELSGFVNGy5pgxreO___xqWYKd9ntEePv6FaUQV5R3VPmYW2___HCoZlhx2kgLJK86QxQZXn.png "image.png")
+
+
+![image.png](/.eraser/VHoEELSGFVNGy5pgxreO___xqWYKd9ntEePv6FaUQV5R3VPmYW2___UBf0cnq1wfChIBFEL1Zsw.png "image.png")
 
 
 
 ## Events & Actors & Commands & Policies
-1.User **Open 1st tab**
+### 1. 1st tab Screen
+1.1.User **Open 1st tab**
 
 ![image.png](/.eraser/VHoEELSGFVNGy5pgxreO___xqWYKd9ntEePv6FaUQV5R3VPmYW2___l_LCjkcyGwz-RAO9BxUJR.png "image.png")
 
-2.User **Create new task**
+1.2.User **Create new task**
 
 
 
 ![image.png](/.eraser/VHoEELSGFVNGy5pgxreO___xqWYKd9ntEePv6FaUQV5R3VPmYW2___GhJylb7WAkGTZ9itxYlNe.png "image.png")
 
-3.User **Remove a  task**
+1.3.User **Remove a  task**
 
 ![image.png](/.eraser/VHoEELSGFVNGy5pgxreO___xqWYKd9ntEePv6FaUQV5R3VPmYW2____7CEAbaf5mL6kMOBNZr90.png "image.png")
 
-4.User **Mark a task as done**
+1.4.User **Mark a task as done**
 
 
 
 ![image.png](/.eraser/VHoEELSGFVNGy5pgxreO___xqWYKd9ntEePv6FaUQV5R3VPmYW2___S-15drSeS9ZnqVvEz1rCO.png "image.png")
 
-5.User **Apply Category Filter**
+1.5.User **Apply Category Filter**
 
 ![image.png](/.eraser/VHoEELSGFVNGy5pgxreO___xqWYKd9ntEePv6FaUQV5R3VPmYW2___koXQGgGn12iNUmIVeSqgt.png "image.png")
+
+### 2. 2nd tab Screen
+2.1. User **Open 2nd tab**
+
+![image.png](/.eraser/VHoEELSGFVNGy5pgxreO___xqWYKd9ntEePv6FaUQV5R3VPmYW2___SMVCeF9xgWZEnRj3Yo5Sz.png "image.png")
+
+2.2. User **Create category**
+
+
+
+![image.png](/.eraser/VHoEELSGFVNGy5pgxreO___xqWYKd9ntEePv6FaUQV5R3VPmYW2___a7lowxAnfNRxZOahq1pI0.png "image.png")
+
+
+
+2.3. User **Remove category**
+
+
+
+![image.png](/.eraser/VHoEELSGFVNGy5pgxreO___xqWYKd9ntEePv6FaUQV5R3VPmYW2___bE7Niz5UJdm1pka2wKoyh.png "image.png")
 
 
 
