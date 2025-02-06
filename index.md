@@ -86,49 +86,95 @@ The 4th one:
 
 
 ## Events & Actors & Commands & Policies
-### 1. 1st tab Screen
-1.1.User **Open 1st tab**
-
+### 1. 1st tab Screen : Tasks
+#### 1.1.User **Open 1st tab**
 ![image.png](/.eraser/VHoEELSGFVNGy5pgxreO___xqWYKd9ntEePv6FaUQV5R3VPmYW2___l_LCjkcyGwz-RAO9BxUJR.png "image.png")
 
-1.2.User **Create new task**
-
+#### 1.2.User **Create new task**
 
 
 ![image.png](/.eraser/VHoEELSGFVNGy5pgxreO___xqWYKd9ntEePv6FaUQV5R3VPmYW2___GhJylb7WAkGTZ9itxYlNe.png "image.png")
 
-1.3.User **Remove a  task**
-
+#### 1.3.User **Remove a  task**
 ![image.png](/.eraser/VHoEELSGFVNGy5pgxreO___xqWYKd9ntEePv6FaUQV5R3VPmYW2____7CEAbaf5mL6kMOBNZr90.png "image.png")
 
-1.4.User **Mark a task as done**
-
+#### 1.4.User **Mark a task as done**
 
 
 ![image.png](/.eraser/VHoEELSGFVNGy5pgxreO___xqWYKd9ntEePv6FaUQV5R3VPmYW2___S-15drSeS9ZnqVvEz1rCO.png "image.png")
 
-1.5.User **Apply Category Filter**
-
+#### 1.5.User **Apply Category Filter**
 ![image.png](/.eraser/VHoEELSGFVNGy5pgxreO___xqWYKd9ntEePv6FaUQV5R3VPmYW2___koXQGgGn12iNUmIVeSqgt.png "image.png")
 
-### 2. 2nd tab Screen
-2.1. User **Open 2nd tab**
-
+### 2. 2nd tab Screen : Categories
+#### 2.1. User **Open 2nd tab**
 ![image.png](/.eraser/VHoEELSGFVNGy5pgxreO___xqWYKd9ntEePv6FaUQV5R3VPmYW2___SMVCeF9xgWZEnRj3Yo5Sz.png "image.png")
 
-2.2. User **Create category**
-
+#### 2.2. User **Create category**
 
 
 ![image.png](/.eraser/VHoEELSGFVNGy5pgxreO___xqWYKd9ntEePv6FaUQV5R3VPmYW2___a7lowxAnfNRxZOahq1pI0.png "image.png")
 
 
 
-2.3. User **Remove category**
-
+#### 2.3. User **Remove category**
 
 
 ![image.png](/.eraser/VHoEELSGFVNGy5pgxreO___xqWYKd9ntEePv6FaUQV5R3VPmYW2___bE7Niz5UJdm1pka2wKoyh.png "image.png")
+
+
+
+## 3. 3rb tab: Setting
+
+
+#### 3.1. User **Open Setting Tab**
+
+
+![image.png](/.eraser/VHoEELSGFVNGy5pgxreO___xqWYKd9ntEePv6FaUQV5R3VPmYW2___nxo72XrvAw0CeOioOsOq1.png "image.png")
+
+#### 3.2. User **Update Setting**
+![image.png](/.eraser/VHoEELSGFVNGy5pgxreO___xqWYKd9ntEePv6FaUQV5R3VPmYW2___BpEiyyVFfP583_uP7MiC8.png "image.png")
+
+#### 3.3. User **Clear all tasks**
+![image.png](/.eraser/VHoEELSGFVNGy5pgxreO___xqWYKd9ntEePv6FaUQV5R3VPmYW2___vq-crCtEqyIpTlUUAc_sk.png "image.png")
+
+## 4. 4th tab: Statistic
+
+
+#### 4.1. User **Open Statistic Tab**
+If Display Rule is not set
+
+![image.png](/.eraser/VHoEELSGFVNGy5pgxreO___xqWYKd9ntEePv6FaUQV5R3VPmYW2___n4_E8WANKUtcQPFXFLUem.png "image.png")
+
+
+
+If Display rule is Table View
+
+![image.png](/.eraser/VHoEELSGFVNGy5pgxreO___xqWYKd9ntEePv6FaUQV5R3VPmYW2___AbgcG6kPPzsi5TdpB10qh.png "image.png")
+
+
+
+If Display rule is Chart View
+
+![image.png](/.eraser/VHoEELSGFVNGy5pgxreO___xqWYKd9ntEePv6FaUQV5R3VPmYW2___VGu0-E3MMYbTCwJJCYCFc.png "image.png")
+
+#### 4.2. User **Switch View Type**
+User Switch View Type From Table View to Chart View
+
+
+
+![image.png](/.eraser/VHoEELSGFVNGy5pgxreO___xqWYKd9ntEePv6FaUQV5R3VPmYW2___u4FxCEV3vz-4CRo0l9eZC.png "image.png")
+
+
+
+User Switch View Type From Chart View to Table View
+
+![image.png](/.eraser/VHoEELSGFVNGy5pgxreO___xqWYKd9ntEePv6FaUQV5R3VPmYW2___03hdecz8PctLBnflxDvM8.png "image.png")
+
+#### 4.3. User **Apply Statistic Filter**
+
+
+![image.png](/.eraser/VHoEELSGFVNGy5pgxreO___xqWYKd9ntEePv6FaUQV5R3VPmYW2___XVY-R0Xp2ZuJeLsULdcCl.png "image.png")
 
 
 
