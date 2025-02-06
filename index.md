@@ -174,7 +174,9 @@ User Switch View Type From Chart View to Table View
 #### 4.3. User **Apply Statistic Filter**
 
 
-![image.png](/.eraser/VHoEELSGFVNGy5pgxreO___xqWYKd9ntEePv6FaUQV5R3VPmYW2___XVY-R0Xp2ZuJeLsULdcCl.png "image.png")
+
+
+![image.png](/.eraser/VHoEELSGFVNGy5pgxreO___xqWYKd9ntEePv6FaUQV5R3VPmYW2___s1p65YWsCzsAIrM3jRPSf.png "image.png")
 
 
 
